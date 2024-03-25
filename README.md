@@ -3,14 +3,12 @@
 
 Este projeto visa colocar em prática todas as funcionalidades de uma aplicação real.
 
-
-
 ## Progresso do Projeto
 
-| Futuras Funcionalidades 🔴| Em progresso🟡| Concluídas 🟢 |
+| Funcionalidades futuras 🔴| Funcionalidades em progresso 🟡| Funcionalidades concluídas 🟢 |
 | :---------- | :--------- | :------------------------------------------ |
 | `Teste Unitário`| `Input do tipo File` | `Autenticação com JWT e OTP`
-| `Autenticação de Pagamento`| `Refatoração do Backend` | `Nodemailer para change password`
+| `Autenticação de Pagamento`| `Refatoração do Backend` | `Envios de e-mail com nodemailer`
 | `Design Patern e SOLID` |  | `CRUDE completo e implementado`
 | |  | `Formulário com tipos de inputs variados`
 | |  | `Interações entre backend e frontend`
@@ -42,6 +40,8 @@ Entre no diretório do projeto
 
 ```bash
   cd Food-Explorer-Frontend
+```
+```bash
   cd Food-Explorer-Backend
 ```
 Instale as dependências
